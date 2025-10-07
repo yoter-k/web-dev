@@ -1,0 +1,120 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>techStore</title>
+    <link rel="stylesheet" href="assets/bootstrap/css/bootstrap.min.css">
+    <script src="assets/bootstrap/js/bootstrap.bundle.min.js"></script>
+    <link rel="stylesheet" href="assets/bootstrap-icons/bootstrap-icons.css">
+    <link rel="stylesheet" href="assets/style.css">
+</head>
+
+<body>
+    <header>
+        <nav class="navbar navbar-expand-lg navbar-light bg-light">
+            <div class="container-fluid">
+                <a class="navbar-brand" href="index.html">
+                    <img src="assets/img/logo.png" alt="Лого" width="30" height="30"
+                        class="d-inline-block align-text-top">
+                    techStore
+                </a>
+
+                <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNav"
+                    aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
+                    <span class="navbar-toggler-icon"></span>
+                </button>
+                <div class="collapse navbar-collapse" id="navbarNav">
+                    <ul class="navbar-nav">
+                        <li class="nav-item">
+                            <a class="nav-link active" aria-current="page" href="index.html"><i class="bi-house"></i>
+                                Главная</a>
+                        </li>
+                        <li class="nav-item">
+                            <a class="nav-link" href="products.html"><i class="bi-basket3"></i>
+                                Товары</a>
+                        </li>
+                        <li class="nav-item"><a class="nav-link" href="about.html"><i class="bi-person-square"></i> О
+                                нас</a>
+                        </li>
+                    </ul>
+                </div>
+            </div>
+        </nav>
+    </header>
+    <main class="container my-4">
+        <h1>Это моя компания</h1>
+        <p>Добро пожаловать!<br>Мы занимаемся тем, что создаем сайты, делаем
+            это хорошо и качественно. Далее мы научимся создавать и полноценные
+            веб-приложения!</p>
+
+        <div id="carouselExampleIndicators" class="carousel slide" data-bs-ride="carousel">
+            <div class="carousel-indicators">
+                <button type="button" data-bs-target="#carouselExampleIndicators" data-bs-slide-to="0" class="active"
+                    aria-current="true" aria-label="Слайд 1"></button>
+                <button type="button" data-bs-target="#carouselExampleIndicators" data-bs-slide-to="1"
+                    aria-label="Слайд 2"></button>
+                <button type="button" data-bs-target="#carouselExampleIndicators" data-bs-slide-to="2"
+                    aria-label="Слайд 3"></button>
+            </div>
+            <div class="carousel-inner">
+                <div class="carousel-item active">
+                    <img src="assets/img/main.jpg" class="d-block w-100" alt="...">
+                </div>
+                <div class="carousel-item">
+                    <img src="assets/img/slider2.jpg" class="d-block w-100" alt="...">
+                </div>
+                <div class="carousel-item">
+                    <img src="assets/img/slider3.jpg" class="d-block w-100" alt="...">
+                </div>
+            </div>
+            <button class="carousel-control-prev" type="button" data-bs-target="#carouselExampleIndicators"
+                data-bs-slide="prev">
+                <span class="carousel-control-prev-icon" aria-hidden="true"></span>
+                <span class="visually-hidden">Назад</span>
+            </button>
+            <button class="carousel-control-next" type="button" data-bs-target="#carouselExampleIndicators"
+                data-bs-slide="next">
+                <span class="carousel-control-next-icon" aria-hidden="true"></span>
+                <span class="visually-hidden">Вперед</span>
+            </button>
+        </div>
+        <section class="container my-5">
+            <h2 class="mb-4">Отзывы о нас</h2>
+            <div class="row">
+                <div class="col-md-4">
+                    <div class="card shadow-sm">
+                        <div class="card-body">
+                            <p class="card-text">"Отличная компания! Сделали сайт быстро и качественно."</p>
+                            <h6 class="card-subtitle text-muted">— Макаров Даниил</h6>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-md-4">
+                    <div class="card shadow-sm">
+                        <div class="card-body">
+                            <p class="card-text">"Очень доволльна результатом. Буду обращаться ещё."</p>
+                            <h6 class="card-subtitle text-muted">— Семенова Арина</h6>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-md-4">
+                    <div class="card shadow-sm">
+                        <div class="card-body">
+                            <p class="card-text">"Профессионалы своего дела! Рекомендую!😊👍"</p>
+                            <h6 class="card-subtitle text-muted">— Тихонов Кирилл</h6>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </section>
+
+    </main>
+
+    <footer class="bg-light text-center py-3 mt-5">
+    </footer>
+
+</body>
+
+</html>
