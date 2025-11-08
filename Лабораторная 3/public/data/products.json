@@ -1,0 +1,107 @@
+[
+    {
+        "id": 1,
+        "name": "MacBook Air 13\"",
+        "description": "Лёгкий ноутбук с процессором Apple M2 и Retina дисплеем",
+        "price": "120 000 р.",
+        "image": "/assets/img/t1.jpg"
+    },
+    {
+        "id": 2,
+        "name": "Клавиатура Logitech G915",
+        "description": "Беспроводная механическая клавиатура с RGB-подсветкой",
+        "price": "18 000 р.",
+        "image": "/assets/img/t3.jpg"
+    },
+    {
+        "id": 3,
+        "name": "Наушники Sony WH-1000XM5",
+        "description": "Беспроводные наушники с шумоподавлением",
+        "price": "25 000 р.",
+        "image": "/assets/img/t2.jpg"
+    },
+    {
+        "id": 4,
+        "name": "iPhone 17 Pro",
+        "description": "Смартфон с Super Retina XDR дисплеем и A16 Bionic",
+        "price": "110 000 р.",
+        "image": "/assets/img/t4.jpg"
+    },
+    {
+        "id": 5,
+        "name": "Монитор LG 27\"",
+        "description": "27-дюймовый монитор с разрешением 4K и IPS панелью",
+        "price": "30 000 р.",
+        "image": "/assets/img/t5.jpg"
+    },
+    {
+        "id": 6,
+        "name": "Мышь Logitech MX Master 3",
+        "description": "Эргономичная беспроводная мышь для продуктивной работы",
+        "price": "9 000 р.",
+        "image": "/assets/img/t6.jpg"
+    },
+    {
+        "id": 7,
+        "name": "Планшет iPad Air",
+        "description": "Лёгкий планшет с дисплеем Retina и мощным процессором",
+        "price": "50 000 р.",
+        "image": "/assets/img/t7.jpg"
+    },
+    {
+        "id": 8,
+        "name": "Apple Mac Studio",
+        "description": "Профессиональный десктоп с чипом M2 Ultra для работы с графикой и видео",
+        "price": "450 000 р.",
+        "image": "/assets/img/t8.jpg"
+    },
+    {
+        "id": 9,
+        "name": "Профессиональный дрон DJI Mavic 3",
+        "description": "Дрон с камерой Hasselblad, 5.1K видео, 46 минут полёта и системой обхода препятствий",
+        "price": "250 000 р.",
+        "image": "/assets/img/t9.jpg"
+    },
+    {
+        "id": 10,
+        "name": "Умные часы Apple Watch Series 9",
+        "description": "Сенсорный экран, мониторинг здоровья, уведомления",
+        "price": "35 000 р.",
+        "image": "/assets/img/t10.jpg"
+    },
+    {
+        "id": 11,
+        "name": "Смарт-колонка Amazon Echo",
+        "description": "Голосовой ассистент Alexa, управление умным домом",
+        "price": "7 500 р.",
+        "image": "/assets/img/t11.jpg"
+    },
+    {
+        "id": 12,
+        "name": "Внешний SSD Samsung X5 Thunderbolt",
+        "description": "Портативный SSD 2TB с интерфейсом Thunderbolt 3, скорости до 2800 МБ/с",
+        "price": "35 000 р.",
+        "image": "/assets/img/t12.jpg"
+    },
+    {
+        "id": 13,
+        "name": "Игровой ПК Alienware Aurora R14",
+        "description": "Мощный игровой компьютер с RTX 4090, 32GB RAM и процессором Intel Core i9",
+        "price": "350 000 р.",
+        "image": "/assets/img/t13.jpg"
+    },
+    {
+        "id": 14,
+        "name": "Наушники HyperX Cloud II",
+        "description": "Геймерские наушники с микрофоном и объемным звуком",
+        "price": "9 500 р.",
+        "image": "/assets/img/t14.jpg"
+    },
+    {
+        "id": 15,
+        "name": "Монитор Dell UltraSharp 32\"",
+        "description": "Профессиональный монитор для дизайна и видеомонтажа",
+        "price": "70 000 р.",
+        "image": "/assets/img/t15.jpg"
+    }
+]
